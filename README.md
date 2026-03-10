@@ -11,3 +11,6 @@ to compile use the command "bash patternDetectVisual.bash" if you're on linux, i
 I did not do a final clean because this was supposed to be a personal projet, so I left it in a dirty state, but it works
 
 Also it was my first big project, so I didn't use git, so no history, for my next projets I will be using git
+
+
+the TIPEvisu.out is compiled for linux, if you put it in the same folder as argumentsPatternDetect.txt it should work out of the box
