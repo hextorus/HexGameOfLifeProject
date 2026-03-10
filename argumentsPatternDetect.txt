@@ -1,0 +1,11 @@
+h = 500
+l = 1000
+nbGeneration = 150
+hexSizeINIT = 8
+regle = 3641
+printAPartirDe occurrences = 8600
+stockerAPartirDe pixels = 3
+mode = 0
+cleanSlate = 0
+idSaveTo = 7
+idLoadFrom = 7

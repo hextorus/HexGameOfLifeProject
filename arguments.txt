@@ -1,0 +1,7 @@
+h = 500
+l = 1000
+memoireUtilise(Mo) = 1000
+hexSize = 5
+regle = 1032
+screenWidth = 800
+screenHeight = 450
