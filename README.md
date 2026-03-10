@@ -14,3 +14,7 @@ Also it was my first big project, so I didn't use git, so no history, for my nex
 
 
 the TIPEvisu.out is compiled for linux, if you put it in the same folder as argumentsPatternDetect.txt it should work out of the box
+
+
+
+finally this is my first time using git and I'm tired and I can't work it out I'm tired, go check the master branch to see all the code
